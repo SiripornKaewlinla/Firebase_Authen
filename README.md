@@ -12,14 +12,7 @@ This project implements Firebase Authentication for user registration and login 
 - **Logout**: Users can sign out from the app and be redirected to the login screen.
 - **Forgot Password**: Users can reset their password via email.
 
-## Setup
 
-To get started with this Flutter Firebase Authentication project:
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
